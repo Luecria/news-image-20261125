@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# Entry: a newspaper image summarising 25 November 2026 world news.
+# render.py renders 53 stories into the approved 1024x1024 entry.png.
+# Identical local inputs produce deterministic, byte-identical output.
+# Rendering and this output-copy entrypoint require no network access.
 """Copy the approved image to the program/v1 output path (Python 3.13 stdlib)."""
 
 import argparse
