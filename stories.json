@@ -79,6 +79,30 @@
           "claim": false,
           "headline": "Judge upholds Mamdani's NYC rent freeze",
           "source": "Gulf News"
+        },
+        {
+          "claim": false,
+          "deck": "US consumer confidence rose to its highest level in nearly two years.",
+          "headline": "US consumer confidence jumps to highest in nearly two years",
+          "source": "Reuters"
+        },
+        {
+          "claim": false,
+          "deck": "S&P warns Nvidia's board may be compromised and puts the chipmaker's rating on downgrade watch.",
+          "headline": "S&P warns Nvidia board may be compromised",
+          "source": "Reuters"
+        },
+        {
+          "claim": false,
+          "deck": "A storm is set to bring rain and strong winds to the US East Coast over Thanksgiving.",
+          "headline": "East Coast storm to bring rain, strong winds on Thanksgiving",
+          "source": "Reuters"
+        },
+        {
+          "claim": false,
+          "deck": "Salvadoran migrant Kilmar Abrego Garcia left the US for Spain, ending a long legal battle.",
+          "headline": "Kilmar Abrego Garcia leaves US for Spain",
+          "source": "Reuters"
         }
       ]
     },
@@ -144,6 +168,12 @@
           "claim": false,
           "headline": "Leaked Russian data: 490,334 soldiers died in Ukraine",
           "source": "Daily Summary"
+        },
+        {
+          "claim": false,
+          "deck": "Airline Norse Atlantic flagged bankruptcy risk as flights were suspended.",
+          "headline": "Norse Atlantic flags bankruptcy risk as flights suspended",
+          "source": "Reuters"
         }
       ]
     },
@@ -189,6 +219,12 @@
           "claim": true,
           "headline": "Israel minister claims Iran building chemical weapons",
           "source": "WebIndia123"
+        },
+        {
+          "claim": false,
+          "deck": "Islamic State attack killed two internal security personnel and wounded five in northeastern Syria, state media says.",
+          "headline": "IS attack kills two Syrian security personnel in Hasaka",
+          "source": "Reuters"
         }
       ]
     },
@@ -219,6 +255,18 @@
           "claim": false,
           "headline": "S. Africa court ends 'farmgate' impeachment threat to Ramaphosa",
           "source": "Peek-a-Daily"
+        },
+        {
+          "claim": false,
+          "deck": "Militants suspected to be from an Islamic State affiliate kidnapped a Saudi national in Niger at the weekend, security sources say.",
+          "headline": "Saudi national kidnapped by suspected IS militants in Niger",
+          "source": "Reuters"
+        },
+        {
+          "claim": false,
+          "deck": "Suspected militants killed at least 30 people and burned homes in villages in Niger state, residents say.",
+          "headline": "Suspected militants kill at least 30 in Nigeria's Niger state",
+          "source": "Reuters"
         }
       ]
     },
