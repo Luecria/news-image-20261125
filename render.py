@@ -14,7 +14,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parent
 DATA = json.loads((ROOT / "stories.json").read_text(encoding="utf-8"))
-OUT = ROOT / "news-image-20261125.png"
+OUT = ROOT / "entry.png"
 
 W, H = 1024, 1024
 MARGIN = 30
